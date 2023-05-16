@@ -1,0 +1,16 @@
+inicializar git
+1. primer comando para iniciar :git init
+
+2. para ver es estatus : git status
+
+3. para pasar al 2do estado : gid add .
+    (dejar espacio entre add y el punto (.) )
+   permite agregar las modificaciones que hayamos hecho.
+   siempre dejar espacio y confirmar con el gid status
+   y las letras pasaran a verde. (A de anadido) 
+
+4. Ya estariamos en el 2do estado (git commit -m)
+    para pasar del 2do estado (stseaging area ) al 3ro 
+    el codigo es : git commit -m "(un mensaje cualquier)"
+    y confirmamos el cambio al archivo original
+
